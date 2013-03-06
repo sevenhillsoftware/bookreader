@@ -1,0 +1,53 @@
+[
+    {
+        "title": "Principles of Compiler Design",
+        "authors": [
+            "Aho",
+            "Ullman"
+        ],
+        "publisher": "Addison Wesley",
+        "year": 1977
+    },
+    {
+        "title": "Compilers: Principles Techniques and Tools",
+        "authors": [
+            "Aho",
+            "Sethi",
+            "Ullman"
+        ],
+        "publisher": "Addison Wesley",
+        "year": 1985
+    },
+    {
+        "title": "Getting Things Done",
+        "authors": [
+            "Allen"
+        ],
+        "publisher": "Piatkus Books",
+        "year": 2002
+    },
+    {
+        "title": "Ready for Anything",
+        "authors": [
+            "Allen"
+        ],
+        "publisher": "Piatkus Books",
+        "year": 2004
+    },
+    {
+        "title": "Ant: The Definitive Guide",
+        "authors": [
+            "Holzner"
+        ],
+        "publisher": "O'Reilly Media",
+        "year": 2005
+    },
+    {
+        "title": "Java Concepts",
+        "authors": [
+            "Horstmann"
+        ],
+        "publisher": "Wiley",
+        "year": 2005
+    }
+]
